@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe2a2402-1e02-418f-a1fd-5efcfcc8fff5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-JUnit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-JUnit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-JUnit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-JUnit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-JUnit/aula01-JUnit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid22848" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid22988" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid23061" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid23142" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid23210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.attach_pid23276" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/aula01-exercicio02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/out/production/aula01-exercicio02/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/out/production/aula01-exercicio02/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/out/production/aula01-exercicio02/FiguraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/out/production/aula01-exercicio02/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/src/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/src/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/src/FiguraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio02/src/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.attach_pid147736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.attach_pid21187" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.attach_pid21246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/aula01-exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/out/production/aula01-exercicio1/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/out/production/aula01-exercicio1/PessoaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1/aula01-exercicio1/src/PessoaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/aula02-exercicio03/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula2/aula02-exercicio03/src/Funcionario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="26OlkOsRrWsqvpIx0mw4vYSIyj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe2a2402-1e02-418f-a1fd-5efcfcc8fff5" name="Changes" comment="" />
+      <created>1647302659443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647302659443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
